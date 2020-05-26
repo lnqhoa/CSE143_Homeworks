@@ -1,0 +1,19 @@
+Hoa N Le
+SPRING 2020 - CSE 143
+TA: Shawn Stanley
+Assignment #2 Guitar Hero
+
+1. What did you learn this week?
+I learn using stacks and queues as data structures and
+Iterator that attached to the data structure and returns the next item in the data structure.
+
+2. What did you enjoy in the course this week?
+I enjoy learning about the difference between stacks and queues along with the difference 
+between LIFO and FIFO. 
+
+3. What did you find challenging or frustrating this week?
+I think it is difficulte to get remember and used correctly stacks and queues as I got 
+the two strucutres mixed up. 
+
+4. What did you find particularly helpful for your learning this week?
+I find the Visualizing portions and looking then interpreting code very helpful. 

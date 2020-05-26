@@ -1,0 +1,11 @@
+What did you learn this week?
+I learn about recursion. 
+
+What did you enjoy in the course this week?
+I like how efficient recursions work. 
+
+What did you find challenging or frustrating this week?
+I found it hard to know when to put the commands before or after the recursion.
+
+What did you find particularly helpful for your learning this week?
+Code visualization and tracing at the code itself helps me understand.

@@ -1,0 +1,19 @@
+Hoa N Le
+SPRING 2020 - CSE 143
+TA: Shawn Stanley
+Assignment #1
+
+1. What did you learn this week?
+   I learn the difference between clients and implementer. 
+   I learn how to implement a class which includes writing a constructor and define its behaviors. 
+   
+2. What did you enjoy in the course this week?
+   I enjoy the challenges of writing behaviors as there are so many possibilities in what you can create. 
+
+3. What did you find challenging or frustrating this week?
+   I find it challenging to writing a class because it is a bit harder to test 
+   as the results is not as instant as writing an object. 
+
+4. What did you find particularly helpful for your learning this week?
+   I find the Ed lesson pretty useful, especially the practice coding excercises. 
+   Looking at the provided code was very helpful in understanding the concepts better.

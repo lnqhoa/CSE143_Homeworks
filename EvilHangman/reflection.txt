@@ -1,0 +1,16 @@
+Hoa N Le
+SPRING 2020 - CSE 143
+TA: Shawn Stanley
+Assignment #4 Evil Hangman   
+
+What did you learn this week?
+This week I learned about maps and the keys + values. 
+
+What did you enjoy in the course this week?
+It is cool to see how maps represent data structures in real life but in a less complicated way through the class.
+
+What did you find challenging or frustrating this week?
+The data structures are getting a lot more complicated and it is hard to find/manipulate variables. 
+
+What did you find particularly helpful for your learning this week?
+I think doing the Ed lessons along with the videos that walk through the problems help. 

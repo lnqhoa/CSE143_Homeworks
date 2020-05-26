@@ -1,0 +1,11 @@
+What did you learn this week?
+I learn about exhaustive search and recursive backtracking. 
+
+What did you enjoy in the course this week?
+I enjoy knowing when to use recursive and when to use backtracking.
+
+What did you find challenging or frustrating this week?
+I got confused about stream processing. 
+
+What did you find particularly helpful for your learning this week?
+Code visualization and tracing the code itself help me understand.
